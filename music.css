@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    min-height: 100vh;
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color:hsl(225, 100%, 94%);
+    position: relative;
+}
+
+.container{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    /* transform: translate(50%, -50%); */
+    max-width: 450px;
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text{
+    padding: 7px;
+    text-align: center;
+}
+.order{
+    color: black;
+    font-weight: 900;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+    .text p.P1{
+        color: black;
+
+    }
+
+
+
+
+
+
+.P1{
+    /* background-color: blueviolet; */
+    font-size: 22px;
+}
