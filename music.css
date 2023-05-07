@@ -64,9 +64,7 @@ body{
         font-weight: bold;
     }
     .last{
-        height: 100px;
-        /* background-color: red; */
-        
+        height: 150px;
     }
     .button2{
         background-color: hsl(245, 75%, 52%);
@@ -78,11 +76,13 @@ body{
         padding:16px 0px 16px 120px;
         margin: 26px 20px;
         border-radius: 12px;
+        text-decoration: none;
     }
     .button3{
         color: hsl(224, 23%, 55%);
         padding: 70px 0px 0px 164px;
         font-weight: 800;
+        text-decoration: none;
     }
 
 
