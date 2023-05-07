@@ -11,13 +11,13 @@ body{
     background-size: contain;
     background-color:hsl(225, 100%, 94%);
     position: relative;
+    margin-left: 500px;
 }
 
 .container{
     position: absolute;
     left: 50px;
     top: 50px;
-    /* transform: translate(50%, -50%); */
     max-width: 450px;
     background: white;
     border-radius: 20px;
